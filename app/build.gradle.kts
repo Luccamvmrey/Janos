@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.janos"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.janos"
